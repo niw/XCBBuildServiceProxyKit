@@ -1,3 +1,5 @@
 /bazel-*
 /Examples/bazel-*
 /.vscode
+/Package.resolved
+.build/
